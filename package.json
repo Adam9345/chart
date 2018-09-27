@@ -2,7 +2,9 @@
   "name": "chart",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://adam9345.github.io/chart",
   "dependencies": {
+    "gh-pages": "^2.0.0",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
     "react-scripts-ts": "2.17.0"
@@ -11,7 +13,8 @@
     "start": "react-scripts-ts start",
     "build": "react-scripts-ts build",
     "test": "react-scripts-ts test --env=jsdom",
-    "eject": "react-scripts-ts eject"
+    "eject": "react-scripts-ts eject",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "@types/jest": "^23.3.2",
