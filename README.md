@@ -1,4 +1,4 @@
-Github page: adam9345.github.io/chart
+Github page: [adam9345.github.io/chart](https://adam9345.github.io/chart)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
